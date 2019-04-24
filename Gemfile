@@ -60,3 +60,7 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# blog gem:
+gem 'rails_blog', path: '/Users/feizheng/github/rails_blog'
+gem 'kaminari'
