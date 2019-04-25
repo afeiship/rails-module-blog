@@ -63,4 +63,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # blog gem:
 gem 'rails_blog', path: '/Users/feizheng/github/rails_blog'
+# gem 'bulma-rails', path: '/Users/feizheng/git-oschina/test/bulma-rails'
+gem 'rails_bulma', path: '/Users/feizheng/github/rails_bulma'
 gem 'kaminari'

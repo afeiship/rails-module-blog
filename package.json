@@ -1,5 +1,6 @@
 {
   "name": "rails-module-blog",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+  }
 }
